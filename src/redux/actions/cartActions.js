@@ -3,7 +3,7 @@ import { ADD_TO_CART, REMOVE_FROM_CART,ADD_TO_CART_ERROR } from "../constants/ca
 
 //const URL = 'http://localhost:8000';
 
-const URL = "https://flipkartmern.onrender.com"
+const URL = "https://flipkartbackend-ejex.onrender.com"
 
 //const URL="";
 

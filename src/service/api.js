@@ -4,7 +4,7 @@ import axios from 'axios';
 
 //const URL = "" //backendurl
 
-const URL = "https://flipkartmern.onrender.com";
+const URL = "https://flipkartbackend-ejex.onrender.com/";
 
 export const authenticateUser = async (data)=>{
     try{

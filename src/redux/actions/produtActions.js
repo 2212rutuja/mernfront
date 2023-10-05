@@ -5,7 +5,7 @@ import { GET_PRODUCTS_SUCCESS, GET_PRODUCT_DETAIL_FAILURE, GET_PRODUCT_DETAIL_RE
 //const URL = 'http://localhost:8000';
 //const URL = '';
 
-const URL = "https://flipkartmern.onrender.com";
+const URL = "https://flipkartbackend-ejex.onrender.com";
 
 
 export const getProducts =() =>async (dispatch)=>{
